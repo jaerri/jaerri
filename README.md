@@ -1,15 +1,16 @@
 ### Halo
 
-Am a monke learnin to type words on a screen
-currently being trapped in a terrible zoo called public school
+am a monke learnin to type words on a screen
+<br>
+currently being trapped in a terrible zoo called public school <br>
 
-dislike modern culture\n
-immune to anime virus\n
-like classical music\n
-like to overthrow the communist government\n
-only if school did coding class\n
-education system is rigged\n
-vive la revolution\n
-\n
+dislike modern culture <br>
+immune to anime virus <br>
+like classical music <br>
+like to overthrow the communist government <br>
+only if school did coding class <br>
+education system is rigged <br>
+vive la revolution <br>
+<br>
 eternal suffering
 
