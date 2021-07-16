@@ -1,7 +1,7 @@
 ### Halo
 
-am a monke learnin to type words on a screen \
-currently being trapped in a terrible zoo called public school 
+am a hooman learnin to type words on a screen \
+currently being trapped in a concentration camp called public school 
 
 > about me section too cringi deleted
 
