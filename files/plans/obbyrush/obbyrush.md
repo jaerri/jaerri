@@ -6,7 +6,7 @@ Game is at https://www.roblox.com/games/7124580983/Obby-Rush.
 
 View todo list and game plans at the [Game Plan section](#game-plan).
 
-- [Changelog](#changelog)
+- [Changelog](CHANGELOG.md)
 
 # Contributing
 
@@ -25,21 +25,6 @@ Alternatively just [contact me](#contact) here.
 # Contacts
 
 Simply message me through where I sent you this (problaby the Discord server) or through [jaerri#1984](https://discord.com/users/679948431103492098).
-
-# Changelog
-
-All notable changes to the game will be documented in this section.
-
-## Unreleased
-
-- Official release.
-
-## Initial Development - 2021-7-20
-
-### Added 
-- Classic Baseplate template generated on Roblox Studio.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 # Game Plan
 
