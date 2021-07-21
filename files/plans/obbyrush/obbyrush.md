@@ -85,7 +85,7 @@ You can create maps for the game and I will add to the list, instructions [here]
 
 Map Name            | Creator           | Finished | Released
 ------------------- | ----------------- | -------- | --------
-Demo Map      | [i_loveflipflop]      | No       | No
+Demo Map            | [i_loveflipflop]  | No       | No
           
 [i_loveflipflop]: https://www.roblox.com/users/1415347123/profile
 
