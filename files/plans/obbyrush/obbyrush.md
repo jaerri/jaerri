@@ -20,7 +20,7 @@ You can view the current maps in game or development [here](#maps).
 
 You can also contribute and change content in this plan by opening a pull request at [the Github repo](https://github.com/FuniJaerri/FuniJaerri/) (you should read about markdown at https://guides.github.com/features/mastering-markdown/).
 
-Alternatively just [contact me](#contact) here.
+Alternatively just see [contacts](#contacts) here.
 
 # Contacts
 
