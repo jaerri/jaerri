@@ -4,9 +4,9 @@ A Roblox obby game, but you have to constantly run.
 
 Game is at https://www.roblox.com/games/7124580983/Obby-Rush.
 
-View todo list and game plans at the [Game Plan section](#game-plan).
+View todo list and game plans at the [Game Plans section](#game-plans).
 
-- [Changelog](CHANGELOG.md)
+To see what feature in [game plans](#game-plan) are added in-game, visit [changelog](CHANGELOG.md).
 
 # Contributing
 
@@ -26,28 +26,36 @@ Alternatively just [contact me](#contact) here.
 
 Simply message me through where I sent you this (problaby the Discord server) or through [jaerri#1984](https://discord.com/users/679948431103492098).
 
-# Game Plan
+# Game Plans
 
 ### Currency: Point
 
-- Earned by surviving in a match, default is 1 [point](#match-currency-point)/second, [premium](#free-2x-points) or [gamepasses](#2x-points) players will have a boost to 2 [points](#match-currency-point)/second.
-- Can be used to buy in-game power ups.
-- Points are reset every new match.
+- Earned by surviving in a match, default is 1 [point](#currency-point)/second, [premium](#free-2x-points) or [gamepasses](#2x-points) players will have a boost to 2 [points](#currency-point)/second.
+- Can be used to buy [match power ups](#in-match-one-time-power-ups).
+- [Points](#currency-point) are **reset** every new match.
 
 ## Game modes
 
-### Hunters and Runners 
-
-- 
+- ### Hunters and Runners 
+    - Match will last for a maximun of 3 minutes.
+    - Players can only spawn **once**, if killed they will return to lobby or can spectate other players.
+    - Two teams:
+        - #### Hunters: 
+            - Can kill other [Runners](#runners) on touch.
+            - Are not allowed to buy [power ups](#in-match-one-time-power-ups).
+            - Wins when all [Runners](#runners) are killed or died from obby.
+        - #### Runners: 
+            - Can only run away from [Hunters](#hunters).
+            - Can buy [power ups](#in-match-one-time-power-ups) in match using points.
+            - Wins when time runs out or when all [Hunters](#hunters) have died.
 
 ## In-match one time power ups 
 
-These items can be bought in a match using points:
+These items can **ONLY** be bought and used **ONCE** in a match using points:
 
 - ### Respawner
     - Allow player to respawn if killed, best used with a [Respawn Flag](#respawn-flag).
     - Can only be bought in gamemodes where you can only spawn once ([Hunters and Runner](#hunters-and-runners)).
-    - Can only be bought once a match.
 
 - ### Respawn Flag
     - Place down the [flag](#respawn-flag) at the position player is standing will allow player to respawn there once killed.
@@ -62,7 +70,7 @@ These items can be bought in a match using points:
 
 - ### Free 2x Points
     - Players with premium subscription will automatically have free [2x Points gamepass](#2x-points) benefits.
-    - They are not allowed to buy the [2x Points gamepass](#2x-points) (already have boost).
+    - They are **not** allowed to buy the [2x Points gamepass](#2x-points) (already have boost).
 
 ## Maps
 
