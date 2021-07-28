@@ -10,13 +10,26 @@ To see what feature in [game plans](#game-plan) are added in-game, visit [change
 
 # Contributing
 
+## How to
+
 You can make Roblox maps and levels for the game with Roblox Studio (requires prior Studio knowledge, recommends courses on Roblox website) 
 - First create a new game with a place to build your map on.
 - You should follow the map guides for each gamemode here (not yet).
 - Please keep the map lightweight, recommends Roblox parts only because this is an obby game, pack it in a model.
 - When you have done, go to File --> Save to Files and send me the file through [contacts](#contacts), the map will be added to the game and you will get credited on the game description and map selection page.
+- Also send your Roblox PlayerId so I can add your name into the game, follow these steps to get it:
+    - Open a new or existing place.
+    - Create a new script in `StarterPlayer --> StarterPlayerScript`.
+    - Copy this in:
+    ```lua
+    print(script.Parent.PlayerId)
+    ```
+    - Enter play mode.
+    - Open console if you haven't (`View --> Output`), copy the PlayerId printed.
 
 You can view the current maps in game or development [here](#maps).
+
+## Change to plan
 
 You can also contribute and change content in this plan by opening a pull request at [the Github repo](https://github.com/FuniJaerri/FuniJaerri/) (you should read about markdown at https://guides.github.com/features/mastering-markdown/).
 
