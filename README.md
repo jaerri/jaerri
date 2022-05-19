@@ -1,8 +1,6 @@
 #### HELL o
 
-am a hooman learnin to type words on a screen \
-currently being trapped in a concentration camp called public school 
+am a hooman learning to type fancy stuffs on a screen \
+currently being trapped in a concentration camp called school 
 
-le funi stats panels \
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaerri&countprivate=true&theme=dracula) \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaerri&theme=dracula&layout=compact)
+![ur mom](https://user-images.githubusercontent.com/62021987/169210894-cdc1af9a-465d-4e0d-8630-f966caf24ddc.png)
